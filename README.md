@@ -41,22 +41,22 @@ it is a simple implementation of battle ships game with some extra features whic
 
 * ships
   
-  :heavy_check_mark: using linked list for implementation
+    :heavy_check_mark: using linked list for implementation
 
 ---------------------------------------------------------------------------------------------------
   
 * save data
 
-:heavy_check_mark:  save game and load game and load last game
+    :heavy_check_mark:  save game and load game and load last game
 
-:heavy_check_mark:  save users and score board
+    :heavy_check_mark:  save users and score board
 
 ---------------------------------------------------------------------------------------------------
 
 * code quality
 
-:heavy_check_mark:  clean code & DRY
+    :heavy_check_mark:  clean code & DRY
 
-:heavy_check_mark:   small functions
+    :heavy_check_mark:   small functions
 
   
