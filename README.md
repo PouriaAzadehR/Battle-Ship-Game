@@ -10,14 +10,14 @@ it is a simple implementation of battle ships game with some extra features whic
 
 ## Features
 
-* modes
+* MODES
 
     :heavy_check_mark: single player
     
     :heavy_check_mark: multi player
 ---------------------------------------------------------------------------------------------------
 
-* map
+* MAP
 
   :heavy_check_mark: turn map
   
@@ -25,7 +25,7 @@ it is a simple implementation of battle ships game with some extra features whic
  
 ---------------------------------------------------------------------------------------------------
   
-* game process
+* GAME PROCESS
   
   :heavy_check_mark:  ship placement
   
@@ -39,7 +39,7 @@ it is a simple implementation of battle ships game with some extra features whic
 
 ---------------------------------------------------------------------------------------------------
 
-* ships
+* SHIPS
   
     :heavy_check_mark: using linked list for implementation
 
@@ -53,10 +53,27 @@ it is a simple implementation of battle ships game with some extra features whic
 
 ---------------------------------------------------------------------------------------------------
 
-* code quality
+* CODE QUALITY
 
     :heavy_check_mark:  clean code & DRY
 
     :heavy_check_mark:   small functions
+
+---------------------------------------------------------------------------------------------------
+
+## SINGLE LINKED LIST
+
+A linked list is a dynamic data structure, which means that the size of the list can change at run time. You can imagine a linked list as a chain where each link is connected to the next one to form a sequence with a start and an end.
+
+Each element in a linked list is called a node. Each node stores:
+
+1- The data relating to the element
+
+2- A pointer to the next node
+
+There is also a separate pointer that indicates the first element in the list (the head of the list). This has a null value when the list is empty. The next node pointer of the last element in the list always points to a null value to mark the end of the list.
+
+![linked list](https://user-images.githubusercontent.com/93463377/176040387-ff7934ad-6cbd-4680-9d7b-0f60cfdf41ef.png)
+
 
   
